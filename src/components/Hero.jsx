@@ -16,6 +16,11 @@ export default function HeroSection() {
           <a href="https://github.com/Dheerajjha451/OncoScout" className="text-blue-700 font-semibold ml-1 underline">
             GitHub
           </a>
+          <div className="grid grid-flow-col">
+          <a href="https://fazier.com/launches/oncosight-4" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=642&badge_type=featured" width="270" alt="Example Image" className="d-inline-block mt-3 p-3 rounded img-fluid col-span-1" /></a>
+          <a href="https://fazier.com/launches/oncosight-4" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=642&badge_type=daily" width="270" alt="Example Image" className="d-inline-block mt-3 p-3 rounded img-fluid col-span-2" /></a>
+          <a href="https://fazier.com/launches/oncosight-4" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=642&badge_type=weekly" width="270" alt="Example Image" className="d-inline-block mt-3 p-3 rounded img-fluid col-span-3" /></a>
+          </div>
         </p>
       </div>
     </MaxWidthWrapper>
